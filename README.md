@@ -28,3 +28,8 @@ TBD
 
 ### Requirements for Extension Sub Board
 TBD
+
+### Requirements for Temination Board
+- Allow user the ability to power from the opposite end of Main board without damaging any supply and safely power the MCU
+- Contain barrel DC jack to supply input
+- Contain JST connector to mate with the LED strip
