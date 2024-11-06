@@ -20,6 +20,9 @@ The project is for power, command and control of an RGB+CCT LED Strip. The board
 - Local Storage: Approximately 512KB to store essential data in case of device disconnection.
 - Diagnostics: Status LEDs or tools to aid troubleshooting.
 
+#### R+CCT Strip for Reference
+![image](https://github.com/user-attachments/assets/8753e327-75df-42c4-9247-29d7966c8e57)
+
 ### Requirements for Power Sub Board
 TBD
 
