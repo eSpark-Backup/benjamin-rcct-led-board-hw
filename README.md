@@ -11,7 +11,8 @@ The project is for power, command and control of an RGB+CCT LED Strip. The board
 - Controller: Must include dual-band WiFi and Bluetooth connectivity.
 - IOT Connectivity: Must be able to connect to other IOT devices or smart home systems.
 - LED Length Function: Must work with LED strip over 6 meters in length without power injection.
-- LED Connection: Connects via JST Connector.
+- LED Connection: Connects via 4-pin JST Connector.
+- Additional GND Connection: 2-pin JST same as LED JST Connector
 - Package: Minimized size design for optimal space utilization.
 - Power Input: DC barrel jack input. Current input is 24V 1A and it works.
 - Must support over-the-air firmware updates.
