@@ -19,6 +19,7 @@ The project is for power, command and control of an RGB+CCT LED Strip. The board
 - PWM Control: 16 bit PWM switching
 - Local Storage: Approximately 512KB to store essential data in case of device disconnection.
 - Diagnostics: Status LEDs or tools to aid troubleshooting.
+- Expected board dimensions on single-sided placement: Width preferably 20mm otherwise between 20mm - 30mm; Length can be increased as needed as long as it is technically suitable and helps achieve desired width
 
 #### R+CCT Strip for Reference
 ![image](https://github.com/user-attachments/assets/8753e327-75df-42c4-9247-29d7966c8e57)
