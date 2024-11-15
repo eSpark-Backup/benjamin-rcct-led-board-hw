@@ -134,6 +134,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LUFDAXYH
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Main-Controller-Board-v1.0.0\Design Rule Check - Main-Controller-Board-PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
