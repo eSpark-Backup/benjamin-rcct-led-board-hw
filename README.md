@@ -24,11 +24,9 @@ The project is for power, command and control of an RGB+CCT LED Strip. The board
 #### R+CCT Strip for Reference
 ![image](https://github.com/user-attachments/assets/8753e327-75df-42c4-9247-29d7966c8e57)
 
-### Requirements for Power Sub Board
-TBD
 
 ### Requirements for Extension Sub Board
-TBD
+- Covered by client himself. An outdated version is present in [this repo](https://github.com/eSpark-Consultants/benjamin-adapterboard).
 
 ### Requirements for Temination Board
 - Allow user the ability to power from the opposite end of Main board without damaging any supply and safely power the MCU
