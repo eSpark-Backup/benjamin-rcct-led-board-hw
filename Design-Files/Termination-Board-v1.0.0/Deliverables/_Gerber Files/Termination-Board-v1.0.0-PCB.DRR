@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Termination-Board-v1.0.0-PCB.PcbDoc   11/18/2024  2:01:35 PM
+NCDrill File Report For: Termination-Board-v1.0.0-PCB.PcbDoc   11/19/2024  6:47:47 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
@@ -8,11 +8,11 @@ ASCII RectHoles File : Termination-Board-v1.0.0-PCB-RectHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.3mm (12mil)                                             Round             15        PTH        75.19mm (2.96inch)
+T1      0.3mm (12mil)                                             Round             22        PTH        92.45mm (3.64inch)
 T2      0.8mm (31mil)                                             Rectangle         5         PTH        53.79mm (2.12inch)
-T3      3.2mm (126mil)                                            Round             2         PTH        43.90mm (1.73inch)
+T3      3.2mm (126mil)                                            Round             1         PTH        0.00mm (0.00inch)
 T4      2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              23
+Totals                                                                              29
 
 Total Processing Time (hh:mm:ss) : 00:00:00

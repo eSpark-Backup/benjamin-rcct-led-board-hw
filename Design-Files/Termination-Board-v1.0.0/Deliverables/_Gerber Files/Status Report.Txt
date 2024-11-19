@@ -1,0 +1,26 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Termination-Board-V1.0.0.PrjPcb]
+   Generated File[Termination-Board-v1.0.0-PCB.GTO]
+   Generated File[Termination-Board-v1.0.0-PCB.GTP]
+   Generated File[Termination-Board-v1.0.0-PCB.GTS]
+   Generated File[Termination-Board-v1.0.0-PCB.GTL]
+   Generated File[Termination-Board-v1.0.0-PCB.GBL]
+   Generated File[Termination-Board-v1.0.0-PCB.GBS]
+   Generated File[Termination-Board-v1.0.0-PCB.GBP]
+   Generated File[Termination-Board-v1.0.0-PCB.GBO]
+   Generated File[Termination-Board-v1.0.0-PCB.GM2]
+   Generated File[Termination-Board-v1.0.0-PCB.GKO]
+   Generated File[Termination-Board-v1.0.0-PCB.GPT]
+   Generated File[Termination-Board-v1.0.0-PCB.GPB]
+   Generated File[Termination-Board-v1.0.0-PCB.GD1]
+   Generated File[Termination-Board-v1.0.0-PCB.GG1]
+   Generated File[Termination-Board-v1.0.0-PCB.GM]
+   Generated File[Termination-Board-v1.0.0-PCB.EXTREP]
+   Generated File[Termination-Board-v1.0.0-PCB.REP]
+
+
+Files Generated   : 17
+Documents Printed : 0
+
+Finished Output Generation At 6:51:23 PM On 11/19/2024
