@@ -32,3 +32,7 @@ The project is for power, command and control of an RGB+CCT LED Strip. The board
 - Allow user the ability to power from the opposite end of Main board without damaging any supply and safely power the MCU
 - Contain barrel DC jack to supply input
 - Contain JST connector to mate with the LED strip
+
+#### PCB Layout Reference for Termination Board
+![image](https://github.com/user-attachments/assets/56fbfccb-b895-4628-b176-300021e94c08)
+
