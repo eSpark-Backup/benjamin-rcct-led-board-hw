@@ -2,15 +2,15 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.0\Schematic\.PDF
+OutputFilePath2=D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.1\Schematic\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.0\Schematic\
+OutputBasePath2=D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.1\Schematic\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Termination-Board-V1.0.0.pdf
+OutputFileName2=Termination-Board-V1.0.1.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.0\Schematic\.PDF
+RelativeOutputPath2=D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.1\Schematic\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1

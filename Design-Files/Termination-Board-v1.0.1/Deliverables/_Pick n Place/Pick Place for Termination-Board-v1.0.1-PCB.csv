@@ -1,0 +1,22 @@
+Altium Designer Pick and Place Locations
+D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.1\Project Outputs for Termination-Board-V1.0.1\Pick Place for Termination-Board-v1.0.1-PCB.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/11/24
+Time:       20:32
+Revision:   72b626a6594f916a074bd131eba58c5beb2ad5e0
+Variant:    No variations
+Units used: mm
+
+"Designator","Center-X(mm)","Center-Y(mm)","Layer","Rotation","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"J2","7.1882mm","6.8580mm","TopLayer","0","7.1882mm","6.8580mm","10.1883mm","6.8580mm"
+"J1","19.2132mm","4.5720mm","TopLayer","180","19.2132mm","4.5720mm","24.2132mm","4.5720mm"
+"F1","34.9250mm","5.6388mm","TopLayer","90","34.9250mm","5.6388mm","34.9250mm","1.9388mm"
+"D1","29.4132mm","4.4958mm","TopLayer","90","29.4132mm","4.4958mm","29.4132mm","2.1958mm"
+"C2","49.9288mm","8.8646mm","TopLayer","90","49.9288mm","8.8646mm","49.9288mm","6.0646mm"
+"C1","41.9203mm","8.8625mm","TopLayer","90","41.9203mm","8.8625mm","41.9203mm","6.0625mm"
+"D2","42.3164mm","2.2860mm","TopLayer","180","42.3164mm","2.2860mm","44.6164mm","2.2860mm"
+"C4","52.0548mm","2.3860mm","TopLayer","90","52.0548mm","2.3860mm","52.0548mm","1.3700mm"
+"C3","48.2956mm","2.2590mm","TopLayer","270","48.2956mm","2.2590mm","48.2956mm","3.0210mm"

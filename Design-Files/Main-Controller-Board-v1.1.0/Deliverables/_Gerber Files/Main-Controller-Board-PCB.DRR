@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Main-Controller-Board-PCB.PcbDoc   11/22/2024  7:23:39 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Main-Controller-Board-PCB.TXT
+ASCII RectHoles File : Main-Controller-Board-PCB-RectHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             148       PTH        575.74mm (22.67inch)
+T2      0.8mm (31mil)                                             Rectangle         3         PTH        9.28mm (0.37inch)
+T3      1mm (39mil)                                               Round             5         PTH        15.00mm (0.59inch)
+T4      3.2mm (126mil)                                            Round             3         PTH        105.32mm (4.15inch)
+T5      1.3mm (51mil)                                             Round             2         NPTH       4.00mm (0.16inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              161
+
+Total Processing Time (hh:mm:ss) : 00:00:00
