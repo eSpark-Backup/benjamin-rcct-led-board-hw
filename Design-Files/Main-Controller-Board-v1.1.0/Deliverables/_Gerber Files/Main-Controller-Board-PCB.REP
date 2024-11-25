@@ -2,47 +2,8 @@
 FileName = Main-Controller-Board-PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Board Outline
-      File : Main-Controller-Board-PCB.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-    D89
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Main-Controller-Board-PCB.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Main-Controller-Board-PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Main-Controller-Board-PCB.GTP
-
-    Adding Layer      : Top Paste
+Generating : Top Pad Master
+      File : Main-Controller-Board-PCB.GPT
 
     Adding Layer      : Top Layer
 
@@ -78,13 +39,16 @@ Used DCodes :
     D44
     D45
     D46
+    D89
+    D90
+    D91
+    D92
+    D93
 *************************************************************
 
 *************************************************************
-Generating : Bottom Solder
-      File : Main-Controller-Board-PCB.GBS
-
-    Adding Layer      : Bottom Solder
+Generating : Bottom Pad Master
+      File : Main-Controller-Board-PCB.GPB
 
     Adding Layer      : Bottom Layer
 
@@ -92,11 +56,32 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D78
-    D79
-    D80
-    D81
-    D82
+    D89
+    D90
+    D91
+    D92
+    D93
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Main-Controller-Board-PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Main-Controller-Board-PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D10
 *************************************************************
 
 *************************************************************
@@ -147,13 +132,20 @@ Used DCodes :
     D80
     D81
     D82
+    D83
+    D84
+    D85
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : Main-Controller-Board-PCB.GBO
+Generating : Bottom Paste
+      File : Main-Controller-Board-PCB.GBP
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
@@ -179,60 +171,14 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : Main-Controller-Board-PCB.GPT
+Generating : Board Outline
+      File : Main-Controller-Board-PCB.GM2
 
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Board Outline
 
 
 Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D86
-    D87
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : Main-Controller-Board-PCB.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D25
-    D86
-    D87
+    D10
 *************************************************************
 
 *************************************************************
@@ -245,12 +191,14 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D25
-    D84
-    D85
-    D86
     D87
     D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
 *************************************************************
 
 *************************************************************
@@ -292,12 +240,79 @@ Used DCodes :
     D44
     D45
     D46
-    D83
-    D84
-    D85
     D86
     D87
     D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Main-Controller-Board-PCB.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Main-Controller-Board-PCB.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
 *************************************************************
 
 *************************************************************
@@ -311,7 +326,7 @@ Generating : Drill Drawing
 
 Used DCodes :
     D11
-    D90
+    D95
 *************************************************************
 
 *************************************************************
@@ -333,6 +348,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D91
+    D96
 *************************************************************
 

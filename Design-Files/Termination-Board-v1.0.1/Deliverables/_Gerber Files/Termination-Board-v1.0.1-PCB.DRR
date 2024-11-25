@@ -1,19 +1,20 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Termination-Board-v1.0.1-PCB.PcbDoc   11/22/2024  8:34:33 PM
+NCDrill File Report For: Termination-Board-v1.0.1-PCB.PcbDoc   11/25/2024  5:31:33 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top Layer to Bottom Layer
-ASCII RoundHoles File : Termination-Board-v1.0.1-PCB.TXT
-ASCII RectHoles File : Termination-Board-v1.0.1-PCB-RectHoles.TXT
+ASCII RoundHoles File : Termination-Board-v1.0.1-PCB-RoundHoles.TXT
+ASCII SlotHoles File : Termination-Board-v1.0.1-PCB-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
 T1      0.3mm (12mil)                                             Round             11        PTH        27.58mm (1.09inch)
-T2      0.8mm (31mil)                                             Rectangle         3         PTH        9.28mm (0.37inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        55.08mm (2.17inch)
 T3      1mm (39mil)                                               Round             5         PTH        10.00mm (0.39inch)
-T4      3.2mm (126mil)                                            Round             1         PTH        0.00mm (0.00inch)
-T5      1.3mm (51mil)                                             Round             2         NPTH       4.00mm (0.16inch)
+T4      1.3mm (51mil)                                             Round             1         PTH        0.00mm (0.00inch)
+T5      3.2mm (126mil)                                            Round             1         PTH        0.00mm (0.00inch)
+T6      2.5mm (98mil)                                             Round             1         NPTH       0.00mm (0.00inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              22
+Totals                                                                              23
 
 Total Processing Time (hh:mm:ss) : 00:00:00

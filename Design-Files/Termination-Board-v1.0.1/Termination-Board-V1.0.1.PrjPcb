@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=NC Drill File.Cam
+DocumentPath=Gerber File.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -118,7 +118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Gerber File.Cam
+DocumentPath=NC Drill File.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -147,87 +147,87 @@ DocumentPath=Project Outputs for Termination-Board-V1.0.1\Pick Place for Termina
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB-RectHoles.TXT
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.DRR
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.EXTREP
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GBL
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GBO
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GBP
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GBS
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GD1
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GG1
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GKO
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GM
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GM2
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GM
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GPB
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GPT
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GTL
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GTO
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GTP
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GTS
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.LDP
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.REP
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.TXT
+DocumentPath=Project Outputs for Termination-Board-V1.0.1\Termination-Board-v1.0.1-PCB.REP
 DItemRevisionGUID=
 
 [Configuration1]
@@ -489,11 +489,12 @@ Name=Assembly Outputs
 Description=
 TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=Test Points For Assembly
-OutputName1=Test Point Report
+OutputType1=Assembly
+OutputName1=Assembly Drawings
 OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 OutputType2=Pick Place
 OutputName2=Generates pick and place files
 OutputDocumentPath2=
@@ -502,13 +503,12 @@ OutputDefault2=0
 Configuration2_Name1=ForceUpdateSettings
 Configuration2_Item1=False
 Configuration2_Name2=OutputConfigurationParameter1
-Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=True|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:6|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:3|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Flammability Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#18=Name:Contact Finish - Mating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#19=Name:LCSC Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#20=Name:Height,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#21=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#22=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#23=Name:Insulation Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#24=Name:Case Code (Metric),Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#25=Name:Length,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#26=Name:RoHS Compliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#27=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#28=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#29=Name:Connector Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#30=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#31=Name:Thickness,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#32=Name:Reach SVHC Compliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#33=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#34=Name:Supplier,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#35=Name:Contact Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#36=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#37=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#38=Name:Ratings,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#39=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#40=Name:Fastening Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#41=Name:Pricing 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:0|Column#42=Name:Contact Shape,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#43=Name:Stock 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#44=Name:Width,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78,Type:0|Column#45=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#46=Name:Voltage Rating (DC),Fixed:False,Metric:False,Visible:False,Sort:None,Position:76,Type:0|Column#47=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#48=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:73,Type:0|Column#49=Name:Pricing,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#50=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#51=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#52=Name:Construction,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#53=Name:Number of Contacts,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#54=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#55=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#56=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#57=Name:Number of Rows,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#58=Name:Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#59=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#60=Name:Item Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#61=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#62=Name:Contact Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#63=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#64=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|Column#65=Name:Weight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77,Type:0|Column#66=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#67=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#68=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:74,Type:0|Column#69=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#70=Name:Case Code (Imperial),Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#71=Name:Dielectric,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#72=Name:Number of Positions,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#73=Name:Halogen Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#74=Name:Contact Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#75=Name:Series,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#76=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#77=Name:Insulation Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#78=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75,Type:0|Column#79=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|DocumentPath=D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.1\Termination-Board-v1.0.1-PCB.PcbDoc
-OutputType3=Assembly
-OutputName3=Assembly Drawings
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=True|ShowUnits=True|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:False,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:6|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:False,Sort:None,Position:2|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:3|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:4|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Flammability Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35,Type:0|Column#18=Name:Contact Finish - Mating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28,Type:0|Column#19=Name:LCSC Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40,Type:0|Column#20=Name:ComponentLink3Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25,Type:0|Column#21=Name:Pitch,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54,Type:0|Column#22=Name:Insulation Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:38,Type:0|Column#23=Name:Case Code (Metric),Fixed:False,Metric:False,Visible:False,Sort:None,Position:18,Type:0|Column#24=Name:RoHS Compliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60,Type:0|Column#25=Name:Max Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44,Type:0|Column#26=Name:Min Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45,Type:0|Column#27=Name:Connector Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27,Type:0|Column#28=Name:Category,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20,Type:0|Column#29=Name:Reach SVHC Compliant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58,Type:0|Column#30=Name:Packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53,Type:0|Column#31=Name:Supplier,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64,Type:0|Column#32=Name:Contact Plating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30,Type:0|Column#33=Name:Mount,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46,Type:0|Column#34=Name:Mounting Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47,Type:0|Column#35=Name:Ratings,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57,Type:0|Column#36=Name:Case/Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19,Type:0|Column#37=Name:Fastening Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34,Type:0|Column#38=Name:Pricing 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56,Type:0|Column#39=Name:Contact Shape,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31,Type:0|Column#40=Name:Stock 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63,Type:0|Column#41=Name:ComponentLink3URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26,Type:0|Column#42=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65,Type:0|Column#43=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68,Type:0|Column#44=Name:Pricing,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55,Type:0|Column#45=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66,Type:0|Column#46=Name:ComponentLink2URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24,Type:0|Column#47=Name:Number of Contacts,Fixed:False,Metric:False,Visible:False,Sort:None,Position:48,Type:0|Column#48=Name:Manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:42,Type:0|Column#49=Name:Orientation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51,Type:0|Column#50=Name:RoHS,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59,Type:0|Column#51=Name:Number of Rows,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50,Type:0|Column#52=Name:Stock,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62,Type:0|Column#53=Name:Current Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33,Type:0|Column#54=Name:Item Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:39,Type:0|Column#55=Name:ComponentLink2Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23,Type:0|Column#56=Name:Contact Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:32,Type:0|Column#57=Name:Lead Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41,Type:0|Column#58=Name:Termination,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67,Type:0|Column#59=Name:Weight,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70,Type:0|Column#60=Name:ComponentLink1URL,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22,Type:0|Column#61=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16,Type:0|Column#62=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52,Type:0|Column#63=Name:Case Code (Imperial),Fixed:False,Metric:False,Visible:False,Sort:None,Position:17,Type:0|Column#64=Name:Number of Positions,Fixed:False,Metric:False,Visible:False,Sort:None,Position:49,Type:0|Column#65=Name:Halogen Free,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36,Type:0|Column#66=Name:Contact Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29,Type:0|Column#67=Name:Series,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61,Type:0|Column#68=Name:ComponentLink1Description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21,Type:0|Column#69=Name:Insulation Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37,Type:0|Column#70=Name:Voltage Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69,Type:0|Column#71=Name:Manufacturer Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43,Type:0|Column#72=Name:Pins,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72,Type:0|Column#73=Name:Material,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71,Type:0|DocumentPath=D:\eSpark-Consultants\benjamin-rcctledboard-hw\Design-Files\Termination-Board-v1.0.1\Termination-Board-v1.0.1-PCB.PcbDoc
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
 OutputDocumentPath3=
 OutputVariantName3=[No Variations]
 OutputDefault3=0
-PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup5]
 Name=Fabrication Outputs
@@ -601,6 +601,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=D:\eSpark-Consultants\eSpark-Hardware\BOM Format\JLCPCB.BOM.xlsx|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=1|UseDirectApi=False|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True|Manufacturer Part Number=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
