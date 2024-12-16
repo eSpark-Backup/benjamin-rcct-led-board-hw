@@ -45,6 +45,8 @@ The project is for power, command and control of an RGB+CCT LED Strip. The board
 ### Number of Bare Boards received:  Nil
 ### Details of peripherals received: LED Strip with POGO Connector Female and Male. 
 
-| S.No       | Status (working / faulty) | Remarks (Cause of fault) | Location (PK / Client) | Board Images (front / back / peripherals) |
+| S.No       | Board Name | Location (PK / Client) | Board Images (front / back / peripherals) |
 | ----------- | ----------- |-------------| --- | --- |
-| 1      |  |  | PK | https://drive.google.com/drive/folders/1L3bmODhA1kERpLs6MV5zqFaEbpeSp8mP |
+| 1      | Main Controller Board - v1.1.0   | PK |  https://drive.google.com/drive/folders/1u-aRuWP0ItrZxaj2FMrT51xFzzImfvsr |
+| 2      | Termination Board -v1.0.1   | PK |  https://drive.google.com/drive/folders/18ihGvplU8rt-XHhBx0IHWcN0fZUaOvst |
+| 3      | Peripherals   | PK |  https://drive.google.com/drive/folders/1fW_T0jg9QqRmtZ3q9VDzb-KoIyK4XJFM |
