@@ -43,7 +43,7 @@ The project is for power, command and control of an RGB+CCT LED Strip. The board
 ## Unit Testing Termination Board -v1.0.1
 ### Number of Assmebled Board received:  3 Boards 
 ### Number of Bare Boards received:  Nil
-### Details of peripherals received: LED Strip with POGO Connector Female and Male Qty = 3
+### Details of peripherals received: LED Strip with POGO Connector Female and Male Qty = 2
 
 | S.No       | Board Name | Location (PK / Client) | Board Images (front / back / peripherals) |
 | ----------- | ----------- |-------------| --- |
