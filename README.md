@@ -36,3 +36,15 @@ The project is for power, command and control of an RGB+CCT LED Strip. The board
 #### PCB Layout Reference for Termination Board
 ![image](https://github.com/user-attachments/assets/56fbfccb-b895-4628-b176-300021e94c08)
 
+## Unit Testing Main Controller Board - v1.1.0 
+### Number of Assmebled Board received:  3 Boards 
+### Number of Bare Boards received:  Nil
+
+## Unit Testing Termination Board -v1.0.1
+### Number of Assmebled Board received:  3 Boards 
+### Number of Bare Boards received:  Nil
+### Details of peripherals received: LED Strip with POGO Connector Female and Male. 
+
+| S.No       | Status (working / faulty) | Remarks (Cause of fault) | Location (PK / Client) | Board Images (front / back / peripherals) |
+| ----------- | ----------- |-------------| --- | --- |
+| 1      |  |  | PK | https://drive.google.com/drive/folders/1L3bmODhA1kERpLs6MV5zqFaEbpeSp8mP |
