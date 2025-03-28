@@ -2,8 +2,70 @@
 FileName = Main-Controller-Board-PCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Pad Master
-      File : Main-Controller-Board-PCB.GPT
+Generating : Fabrication
+      File : Main-Controller-Board-PCB.GM3
+
+    Adding Layer      : Fabrication
+
+
+Used DCodes :
+    D10
+    D64
+    D122
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : Main-Controller-Board-PCB.GM2
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : Main-Controller-Board-PCB.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : Main-Controller-Board-PCB.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D20
+    D25
+    D31
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : Main-Controller-Board-PCB.GTP
+
+    Adding Layer      : Top Paste
 
     Adding Layer      : Top Layer
 
@@ -11,6 +73,8 @@ Generating : Top Pad Master
 
 
 Used DCodes :
+    D17
+    D18
     D19
     D20
     D21
@@ -28,27 +92,13 @@ Used DCodes :
     D33
     D34
     D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D89
-    D90
-    D91
-    D92
-    D93
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Main-Controller-Board-PCB.GPB
+Generating : Bottom Solder
+      File : Main-Controller-Board-PCB.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -56,32 +106,26 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
-    D89
-    D90
-    D91
-    D92
-    D93
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : Main-Controller-Board-PCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : Main-Controller-Board-PCB.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D10
+    D38
+    D39
+    D50
+    D52
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
 *************************************************************
 
 *************************************************************
@@ -96,6 +140,17 @@ Generating : Top Solder
 
 
 Used DCodes :
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
     D47
     D48
     D49
@@ -113,6 +168,190 @@ Used DCodes :
     D61
     D62
     D63
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : Main-Controller-Board-PCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D15
+    D120
+    D121
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : Main-Controller-Board-PCB.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : Main-Controller-Board-PCB.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D78
+    D79
+    D80
+    D81
+    D82
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Main-Controller-Board-PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D17
+    D19
+    D20
+    D25
+    D31
+    D78
+    D79
+    D80
+    D81
+    D82
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : Main-Controller-Board-PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D19
+    D20
+    D25
+    D31
+    D64
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Main-Controller-Board-PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
     D64
     D65
     D66
@@ -133,186 +372,6 @@ Used DCodes :
     D81
     D82
     D83
-    D84
-    D85
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : Main-Controller-Board-PCB.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : Main-Controller-Board-PCB.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-*************************************************************
-
-*************************************************************
-Generating : Board Outline
-      File : Main-Controller-Board-PCB.GM2
-
-    Adding Layer      : Board Outline
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : Main-Controller-Board-PCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Main-Controller-Board-PCB.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D10
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Main-Controller-Board-PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : Main-Controller-Board-PCB.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
 *************************************************************
 
 *************************************************************
@@ -325,8 +384,11 @@ Generating : Drill Drawing
 
 
 Used DCodes :
+    D10
     D11
-    D95
+    D64
+    D123
+    D124
 *************************************************************
 
 *************************************************************
@@ -348,6 +410,6 @@ Generating : Profile
 
 
 Used DCodes :
-    D96
+    D125
 *************************************************************
 
